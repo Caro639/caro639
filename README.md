@@ -1,6 +1,6 @@
 # Hello Everyone! I'm Caro639 👋
 
-<img alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFwdmFoMWc4ZXdneWxuaGI2azZmMXp0ZmNsMTB1Njh5eXNiaTJhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3UB5tKwJZDdQhWlhvP/giphy.gif" />
+<img alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 <!-- ![Animated GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFwdmFoMWc4ZXdneWxuaGI2azZmMXp0ZmNsMTB1Njh5eXNiaTJhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3UB5tKwJZDdQhWlhvP/giphy.gif) -->
 
 <!-- **Caro639/caro639** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
