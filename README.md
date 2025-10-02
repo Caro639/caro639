@@ -2,7 +2,7 @@
 
 <img alt="hello world github" src="https://raw.githubusercontent.com/Caro639/caro639/develop/gh-header-hello-github-light.jpg" />
 
-## I am a passionate developer and tech enthusiast. Welcome to my GitHub profile
+## I am a passionate developer and tech enthusiast. Welcome to my GitHub profile :purple_heart:
 
 ![Caro639's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caro639&show_icons=true&theme=midnight-purple)
 
