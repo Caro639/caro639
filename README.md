@@ -4,7 +4,7 @@
 
 ## I am a passionate and creative developer. Welcome to my GitHub profile :purple_heart:
 
-I am looking for my first job in web development 👩🏾‍💻
+## I am looking for my first job in web development 👩🏾‍💻 I want to enrich my stats :grin:
 
 ![Caro639's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caro639&show_icons=true&theme=midnight-purple)
 
