@@ -1,8 +1,8 @@
 # Hello Everyone! I'm Caro639 👋
 
-<img alt="hello world github" src="https://raw.githubusercontent.com/Caro639/caro639/develop/gh-header-hello-github-light.jpg" />
-
 ## I am a passionate and creative developer. Welcome to my GitHub profile :purple_heart:
+
+<img alt="hello world github" src="https://raw.githubusercontent.com/Caro639/caro639/develop/gh-header-hello-github-light.jpg" />
 
 ## I am looking for my first job in web development 👩🏾‍💻 I want to enrich my stats :grin:
 
