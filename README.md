@@ -6,7 +6,7 @@
 
 ## I am looking for my first job in web development 👩🏾‍💻 I want to enrich my stats :grin:
 
-![Caro639's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caro639&show_icons=true&theme=midnight-purple)
+![Caro639's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caro639&show_icons=true&theme=jolly)
 
 ## I don't want to sleep, I want to code ! :computer:
 
