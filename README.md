@@ -12,7 +12,7 @@
 
 <img alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDU3b2s0empkMmh6bmx0NHNlaXpscTB5cWQxZzA3Y2l0aTVtd3M4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fhv3OZoUcz3UY/giphy.gif" width="400" />
 
-![Visitor Count](https://profile-counter.glitch.me/Caro639/count.svg)
+![Caro639's Profile Views](https://komarev.com/ghpvc/?username=Caro639)
 
 <!-- ![Animated GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFwdmFoMWc4ZXdneWxuaGI2azZmMXp0ZmNsMTB1Njh5eXNiaTJhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3UB5tKwJZDdQhWlhvP/giphy.gif) -->
 
