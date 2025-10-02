@@ -1,5 +1,9 @@
 # Hello Everyone! I'm Caro639 👋
 
+<img alt="hello world github" src="https://raw.githubusercontent.com/Caro639/caro639/develop/gh-header-hello-github-light.jpg" />
+
+## I am a passionate developer and tech enthusiast. Welcome to my GitHub profile
+
 <img alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDU3b2s0empkMmh6bmx0NHNlaXpscTB5cWQxZzA3Y2l0aTVtd3M4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fhv3OZoUcz3UY/giphy.gif" width="400" />
 <!-- ![Animated GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFwdmFoMWc4ZXdneWxuaGI2azZmMXp0ZmNsMTB1Njh5eXNiaTJhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3UB5tKwJZDdQhWlhvP/giphy.gif) -->
 
