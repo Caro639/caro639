@@ -4,11 +4,11 @@
 
 <img alt="hello world github" src="https://raw.githubusercontent.com/Caro639/caro639/develop/gh-header-hello-github-light.jpg" />
 
-## I am looking for my first job in web development 👩🏾‍💻 I want to enrich my stats :grin:
+## I'm looking for a job in web development 👩🏾‍💻 I want to enrich my stats :grin:
 
 ![Caro639's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caro639&show_icons=true&theme=jolly)
 
-## I don't want to sleep, I want to code ! :computer:
+## I don't want to sleep, I want to code ! Wake me up ! :computer:
 
 <img alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDU3b2s0empkMmh6bmx0NHNlaXpscTB5cWQxZzA3Y2l0aTVtd3M4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fhv3OZoUcz3UY/giphy.gif" width="400" />
 
