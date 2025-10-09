@@ -8,7 +8,7 @@
 
 ![Caro639's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caro639&show_icons=true&theme=jolly)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caro639&layout=compact&jolly)](https://github.com/Caro639/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caro639&layout=compact&theme=jolly)](https://github.com/Caro639/github-readme-stats)
 
 ## I don't want to sleep, I want to code ! Wake me up ! :computer:
 
