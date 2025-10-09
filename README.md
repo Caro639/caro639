@@ -8,6 +8,8 @@
 
 ![Caro639's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caro639&show_icons=true&theme=jolly)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caro639&layout=compact&jolly)](https://github.com/Caro639/github-readme-stats)
+
 ## I don't want to sleep, I want to code ! Wake me up ! :computer:
 
 <img alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDU3b2s0empkMmh6bmx0NHNlaXpscTB5cWQxZzA3Y2l0aTVtd3M4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fhv3OZoUcz3UY/giphy.gif" width="400" />
