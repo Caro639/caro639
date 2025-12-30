@@ -4,7 +4,9 @@
 
 <img alt="hello world github" src="https://raw.githubusercontent.com/Caro639/caro639/develop/gh-header-hello-github-light.jpg" />
 
-## I'm looking for a job in web development 👩🏾‍💻 I want to enrich my stats :grin:
+## I invite you to discover my online portfolio :eyes:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-%23ad45c6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://caro-developpeur.ozya.fr/)
 
 ![Caro639's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caro639&show_icons=true&theme=jolly)
 
