@@ -12,9 +12,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caro639&layout=compact&theme=jolly)](https://github.com/Caro639/github-readme-stats)
 
-## I don't want to sleep, I want to code ! Wake me up ! :computer:
+## Code with me ! :computer:
 
-<img alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDU3b2s0empkMmh6bmx0NHNlaXpscTB5cWQxZzA3Y2l0aTVtd3M4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fhv3OZoUcz3UY/giphy.gif" width="400" />
+<img alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWMxcDEza2h4ZDJnZW4zczE1ODA2bG83b2p3ZnY1NThwZW00dWZzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" width="400" />
+
+<!-- <img alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDU3b2s0empkMmh6bmx0NHNlaXpscTB5cWQxZzA3Y2l0aTVtd3M4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fhv3OZoUcz3UY/giphy.gif" width="400" /> -->
 
 ![Caro639's Profile Views](https://komarev.com/ghpvc/?username=Caro639)
 
