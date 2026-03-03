@@ -1,12 +1,22 @@
-# Hello Everyone! I'm Caro639 👋
+# Hello Everyone! I'm Caro639 👋 Développeur Web Fullstack
 
-## I am a passionate and creative developer. Welcome to my GitHub profile :purple_heart:
+## I am a passionate and creative web developer. Welcome to my GitHub profile :purple_heart:
 
 <img alt="hello world github" src="https://raw.githubusercontent.com/Caro639/caro639/develop/gh-header-hello-github-light.jpg" />
 
 ## I invite you to discover my online portfolio :eyes:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-%23ad45c6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://caro-developpeur.ozya.fr/)
+
+<!-- Le SVG ci-dessous est généré automatiquement chaque jour par GitHub Actions -->
+<!-- Il analyse tous mes dépôts publics : langages utilisés + frameworks détectés -->
+<!-- via package.json, requirements.txt, pom.xml, Gemfile, Cargo.toml, etc. -->
+
+<p align="center">
+  <img src="./assets/langs.svg" alt="Stack détectée depuis mes dépôts GitHub" />
+</p>
+
+<sub>📊 Graphique mis à jour automatiquement chaque jour · Généré depuis mes dépôts publics</sub>
 
 ![Caro639's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caro639&show_icons=true&theme=jolly)
 
