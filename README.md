@@ -13,7 +13,7 @@
 <!-- via package.json, requirements.txt, pom.xml, Gemfile, Cargo.toml, etc. -->
 
 <p align="center">
-  <img src="./assets/langs.svg" alt="Stack détectée depuis mes dépôts GitHub" />
+  <img src="https://raw.githubusercontent.com/Caro639/caro639/main/assets/langs.svg" alt="Stack détectée depuis mes dépôts GitHub" />
 </p>
 
 <sub>📊 Graphique mis à jour automatiquement chaque jour · Généré depuis mes dépôts publics</sub>
