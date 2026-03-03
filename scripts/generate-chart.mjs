@@ -9,6 +9,16 @@ import path from "path";
 const USERNAME = process.env.GITHUB_USERNAME;
 const TOKEN = process.env.GITHUB_TOKEN;
 
+/** Échappe les caractères spéciaux XML dans une chaîne */
+function escXml(str) {
+  return String(str)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&apos;");
+}
+
 if (!USERNAME) {
   console.error("GITHUB_USERNAME non défini");
   process.exit(1);
@@ -201,7 +211,7 @@ function barBlock(title, entries, offsetY, maxVal, colorOffset = 0) {
   const ROW_H = 28;
   let svg = "";
 
-  svg += `<text x="16" y="${offsetY + 18}" font-size="14" font-weight="bold" fill="#cdd6f4">${title}</text>`;
+  svg += `<text x="16" y="${offsetY + 18}" font-size="14" font-weight="bold" fill="#cdd6f4">${escXml(title)}</text>`;
 
   entries.forEach(([label, value], i) => {
     const y = offsetY + 32 + i * ROW_H;
@@ -212,7 +222,7 @@ function barBlock(title, entries, offsetY, maxVal, colorOffset = 0) {
     );
 
     svg += `<rect x="16" y="${y}" width="${barW}" height="18" rx="4" fill="${color}" opacity="0.9"/>`;
-    svg += `<text x="${16 + barW + 6}" y="${y + 13}" font-size="11" fill="#a6adc8">${label} · ${value} (${pct}%)</text>`;
+    svg += `<text x="${16 + barW + 6}" y="${y + 13}" font-size="11" fill="#a6adc8">${escXml(label)} · ${value} (${pct}%)</text>`;
   });
 
   return { svg, height: 32 + entries.length * ROW_H + 16 };
@@ -260,7 +270,7 @@ function generateSVG(langStats, frameworkStats) {
   <!-- Fond -->
   <rect width="${WIDTH}" height="${HEIGHT}" rx="12" fill="#1e1e2e"/>
   <!-- Titre -->
-  <text x="16" y="28" font-size="16" font-weight="bold" fill="#89b4fa">⚡ Stack — ${USERNAME}</text>
+  <text x="16" y="28" font-size="16" font-weight="bold" fill="#89b4fa">⚡ Stack — ${escXml(USERNAME)}</text>
   <text x="${WIDTH - 16}" y="28" font-size="10" fill="#585b70" text-anchor="end">màj ${now}</text>
   <!-- Séparateur -->
   <line x1="16" y1="38" x2="${WIDTH - 16}" y2="38" stroke="#313244" stroke-width="1"/>
