@@ -16,11 +16,11 @@
   <img src="https://raw.githubusercontent.com/Caro639/caro639/main/assets/langs.svg" alt="Stack détectée depuis mes dépôts GitHub" />
 </p>
 
-<sub>📊 Chart automatically updated daily · Generated from my public repositories</sub>
+<sub><img src="https://img.shields.io/badge/%20-%20-%23ad45c6?style=flat-square&logo=githubactions&logoColor=white" height="30" alt="auto-updated" /> Chart automatically updated daily · Generated from my public repositories</sub>
 
-![Caro639's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caro639&show_icons=true&theme=jolly)
+<!-- ![Caro639's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caro639&show_icons=true&theme=jolly)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caro639&layout=compact&theme=jolly)](https://github.com/Caro639/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caro639&layout=compact&theme=jolly)](https://github.com/Caro639/github-readme-stats) -->
 
 ## Code with me ! :computer:
 
