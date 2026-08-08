@@ -3,7 +3,7 @@
   <rect width="440" height="704" rx="12" fill="#1e1e2e"/>
   <!-- Titre -->
   <text x="16" y="28" font-size="16" font-weight="bold" fill="#89b4fa">⚡ Stack — Caro639</text>
-  <text x="424" y="28" font-size="10" fill="#585b70" text-anchor="end">màj 07 août 2026</text>
+  <text x="424" y="28" font-size="10" fill="#585b70" text-anchor="end">màj 08 août 2026</text>
   <!-- Séparateur -->
   <line x1="16" y1="38" x2="424" y2="38" stroke="#313244" stroke-width="1"/>
   <!-- Langages -->
